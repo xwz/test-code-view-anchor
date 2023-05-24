@@ -1,7 +1,7 @@
-* [`section 1`](#section1)
-* [`section 2`](#section2)
-* [`section 3`](#section3)
-* [`section 4`](#section4)
+* [`section 1`](#section-1)
+* [`section 2`](#section-2)
+* [`section 3`](#section-3)
+* [`section 4`](#section-4)
 
 ## `section 1`
 
